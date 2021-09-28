@@ -1,16 +1,28 @@
-### Hi there 👋
+### Hi there 👋, I'm Rembert Sison
 
-<!--
-**rpsison/rpsison** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a recent grad looking for software engineering opportunites. If you have any projects you would like to collaborate on, feel free to reach out to me!
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on **Open Source Contributions**
+- 🌱 I’m currently learning **Tensorflow/Keras and OpenCV**
+- 💬 Ask me about **anything!**
+- 😄 Pronouns: **He/Him**
+- ⚡ Fun facts: **I love to cook, play rugby and also am an avid F1 fan.**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect with me:
+[<img align="left" alt="rembert | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="rembert | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="rembert | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<br />
+
+<div><p>My overview: </p></div>
+
+![Rembert's github stats](https://github-readme-stats.vercel.app/api?username=rpsison&show_icons=true)
+<br />
+
+
+</details>
+
+<!-- [website]: https://codeSTACKr.com -->
+[twitter]: https://twitter.com/rembertsison
+[instagram]: https://instagram.com/rembertsison
+[linkedin]: https://linkedin.com/in/rembert-sison
